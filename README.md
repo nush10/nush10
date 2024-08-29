@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://bevologyinc.com/blog/wp-content/uploads/2019/01/Metrics-gif.gif)](https://github.com/nush10)
 
 <h1 align="center">Hi 👋, I'm Anushka Paradkar</h1>
 <h3 align="center">Detail-oriented Data Specialist with 2 years of experience with expertise in transforming business process requirements into Functional Requirements and Exploratory Data Analysis (EDA) for customer satisfactionExperience in generating Dashboards, Data-Driven Analysis, and constructing Data Models for providing actionable insights to improve strategic decision-making using tools like SQL, Tableau, Power BI, and Excel.</h3>

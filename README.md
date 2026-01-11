@@ -42,20 +42,29 @@ I enjoy owning problems end to end, understanding the question, validating the d
 These aren’t tutorials — they reflect how I think about real problems:
 
 🔹 Generative AI Research & Writing Assistant
+
 Built a RAG-based agentic system (LangChain + FAISS + CrewAI)
+
 → Improved response accuracy by 30%
+
 → Reduced hallucinations by 40%
 
 🔹 Fine-Tuning LLMs for Text Classification
+
 Fine-tuned DistilBERT on 130K+ airline surveys
+
 → Achieved 95.9% classification accuracy
 
 🔹 Data Modeling & BI Systems
+
 Designed dimensional models and BI layers using Talend, Alteryx, Power BI (DAX)
+
 → Built analytics-ready datasets, not just dashboards
 
 How to Reach Me
+
 Email: anushkadhananjayparadkar@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/paradkaranu/
 
 

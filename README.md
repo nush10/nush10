@@ -1,11 +1,13 @@
 👋 Hi, I’m Anushka
 
-About me
+**About me**
+
 I’m a data analyst with 3+ years of experience supporting product, operations, and leadership teams with reliable reporting and analysis. I’ve worked on CRM migrations, automated data pipelines, and predictive models, with a strong focus on data accuracy, performance, and clear metric definitions.
 
 I enjoy owning problems end to end, understanding the question, validating the data, building the solution, and making sure it’s used. Most of my work lives at the intersection of SQL, Python, and BI tools like Power BI and Tableau.
 
- What I Actually Do
+
+ **What I Actually Do**
  
 🔹 Build and maintain production-grade data pipelines using Snowflake, Python, SQL, dbt, ADF, Airflow
 
@@ -17,23 +19,25 @@ I enjoy owning problems end to end, understanding the question, validating the d
 
 🔹 Apply machine learning and GenAI when it actually adds value — not for buzzwords
 
-Technologies & Tools I Work With
 
-Programming & Querying: Python, SQL, R
+**Technologies & Tools I Work With**
 
-Data Engineering & Pipelines: Snowflake, Azure Data Factory (ADF), dbt, Airflow, Talend, Alteryx
+**Programming & Querying**: Python, SQL, R
 
-Databases: MySQL, PostgreSQL, Oracle DB, SQL Server (SSMS), MongoDB
+**Data Engineering & Pipelines**: Snowflake, Azure Data Factory (ADF), dbt, Airflow, Talend, Alteryx
 
-Analytics & BI: Power BI (DAX), Tableau, Looker, Google Analytics, Excel
+**Databases**: MySQL, PostgreSQL, Oracle DB, SQL Server (SSMS), MongoDB
 
-Machine Learning & GenAI: scikit-learn, PyTorch, TensorFlow, Pandas, NumPy, LangChain, FAISS, CrewAI, Hugging Face Transformers
+**Analytics & BI**: Power BI (DAX), Tableau, Looker, Google Analytics, Excel
 
-Cloud & Platforms: AWS, Azure
+**Machine Learning & GenAI**: scikit-learn, PyTorch, TensorFlow, Pandas, NumPy, LangChain, FAISS, CrewAI, Hugging Face Transformers
 
-Collaboration & Workflow: Git, JIRA, Confluence, Agile / Scrum
+**Cloud & Platforms**: AWS, Azure
 
-Projects I’m Proud Of 
+**Collaboration & Workflow**: Git, JIRA, Confluence, Agile / Scrum
+
+
+**Projects I’m Proud Of** 
 
 These aren’t tutorials — they reflect how I think about real problems:
 
